@@ -1,0 +1,1 @@
+Test funkcjonalności pliku C 2.0
