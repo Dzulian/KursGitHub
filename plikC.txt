@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 Test funkcjonalności pliku C 2.0
+=======
+Testowanie pliku C
+>>>>>>> testing
